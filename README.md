@@ -1,2 +1,3 @@
 # Data-analyst-Portfolio
-Welcome to my Data Analyst Portfolio on GitHub! This repository contains my Data Analytics portfolio projects ranging from SQL, Python, Tableau, and MS Excel.
+
+[click here](https://github.com/kirtij-7/Data-analyst-Portfolio/blob/main/EDA%20on%20Netflix%20dataset.ipynb)
